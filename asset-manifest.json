@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.80252de5.css",
+    "main.js": "/portfolio/static/js/main.961fc068.js",
+    "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/sql-database.jpg": "/portfolio/static/media/sql-database.5c7d15e13be858a9607d.jpg",
+    "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/3949082.webp": "/portfolio/static/media/3949082.a048c8f5406138138584.webp",
+    "static/media/wp7421222.webp": "/portfolio/static/media/wp7421222.f062f04421fad75ad90c.webp",
+    "static/media/header-img.svg": "/portfolio/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/operation-clipart-16.jpg": "/portfolio/static/media/operation-clipart-16.719304459ccb10480030.jpg",
+    "static/media/IMG_2199 (1).webp": "/portfolio/static/media/IMG_2199 (1).3d2fc72889750a8acb97.webp",
+    "static/media/j2ee-training-in-chennai.jpg": "/portfolio/static/media/j2ee-training-in-chennai.cc4c4bcff92ff571e557.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/11.jpg": "/portfolio/static/media/11.28d93de01a5a939a16e9.jpg",
+    "static/media/Become-a-programmer-by-learning-core-Java-skills-with-this-free-course.jpg": "/portfolio/static/media/Become-a-programmer-by-learning-core-Java-skills-with-this-free-course.5a80150b082fe86175b4.jpg",
+    "static/media/Google.jpg": "/portfolio/static/media/Google.257c5e8e8e631b85a64d.jpg",
+    "static/media/uptick.png": "/portfolio/static/media/uptick.674368471b873a0cdf23.png",
+    "static/media/javaspring.webp": "/portfolio/static/media/javaspring.56e144302bf033fc17d3.webp",
+    "static/media/Java Hibernate Framework Learn Object Relational Mapping ORM.jpg": "/portfolio/static/media/Java Hibernate Framework Learn Object Relational Mapping ORM.5ed3d6bb30e29c18ec77.jpg",
+    "static/media/contact-img.svg": "/portfolio/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/javascript.jpg": "/portfolio/static/media/javascript.35490dbd37130b251199.jpg",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/portfolio/static/media/logo.3c6c479cfa1d154dbfccd4d5f91320f4.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.b92a4d73a35c58a3cece1abc5c713a77.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.1170ec5150de467c091d2b544c028172.svg",
+    "static/media/nav-icon2.svg": "/portfolio/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.80252de5.css.map": "/portfolio/static/css/main.80252de5.css.map",
+    "main.961fc068.js.map": "/portfolio/static/js/main.961fc068.js.map",
+    "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80252de5.css",
+    "static/js/main.961fc068.js"
+  ]
+}
